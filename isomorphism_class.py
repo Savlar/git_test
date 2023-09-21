@@ -26,7 +26,7 @@ def check_if_isomorphic(graph, other):
     return False, None, checks
 
 
-class IsomorphismClass:
+class IsomorphismClassBranchB:
 
     def __init__(self, rep):
         self.graphs = [rep]
