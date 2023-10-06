@@ -1,0 +1,7 @@
+git checkout branch_a
+
+git pull origin main
+
+git merge main
+
+git push origin branch_a
